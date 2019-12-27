@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BlackFigure.qml</file>
+        <file>Checkmated.qml</file>
+        <file>ContinueGame.qml</file>
+        <file>NewGame.qml</file>
+        <file>WhiteFigure.qml</file>
+        <file>SelectGame.qml</file>
+        <file>Game.qml</file>
+    </qresource>
+</RCC>
